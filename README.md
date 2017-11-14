@@ -1,2 +1,2 @@
-# Hackdo
-Program for uploading your hacks. Also you can look at other peoples hacks. 
+this program is for hacks only.
+any spam or non-hacks will result in a ban.
