@@ -1,6 +1,10 @@
 #center {
 textalign: center;
+display: block;
 }
 #inline {
+display: inline;
+}
+p {
 display: inline;
 }
